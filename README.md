@@ -23,7 +23,13 @@ https://github.com/adafruit/Adafruit-GFX-Library
 
 tool/board/wemos D1 R2 & mini
 
+### Parts from aliexpress
 
+![](https://github.com/cchamchi/images/blob/master/ESP12D1mini.png)
+
+![](https://github.com/cchamchi/images/blob/master/topgnssGPS.png)
+
+![](https://github.com/cchamchi/images/blob/master/OLED64x64.png)
 
 ![](https://github.com/cchamchi/images/blob/master/gpswatch_v01.jpg)
 
