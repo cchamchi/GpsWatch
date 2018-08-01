@@ -17,7 +17,7 @@ TinyGPS : https://github.com/mikalhart/TinyGPS
 
 OLED :https://github.com/stblassitude/Adafruit_SSD1306_Wemos_OLED
 
-      https://github.com/adafruit/Adafruit-GFX-Library
+https://github.com/adafruit/Adafruit-GFX-Library
 
 ### Board selection and port
 
